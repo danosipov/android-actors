@@ -1,14 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidDesignerProfile">
+    <option name="fullProfile">
+      <profile>
+        <option name="device" value="2.7in QVGA" />
+        <option name="deviceConfiguration" value="Portrait" />
+        <option name="targetHashString" value="android-17" />
+        <option name="theme" value="Theme" />
+      </profile>
+    </option>
+    <option name="selection" value="[Full]" />
+  </component>
+  <component name="AndroidLayoutPreviewToolWindow">
+    <option name="state">
+      <GlobalState>
+        <option name="theme" value="Theme" />
+      </GlobalState>
+    </option>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="c302ea64-2f4f-4544-8c02-eddf2ab4666b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/MainActivity.scala" afterPath="$PROJECT_DIR$/src/main/scala/MainActivity.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.sbt" afterPath="$PROJECT_DIR$/build.sbt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/res/layout/main.xml" afterPath="$PROJECT_DIR$/src/main/res/layout/main.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/plugins.sbt" afterPath="$PROJECT_DIR$/project/plugins.sbt" />
     </list>
     <ignored path="android-actors.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383831251322" ignored="false" />
-    <file path="/MainActivity.scala" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383847953374" ignored="false" />
+    <file path="/MainActivity.scala" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383849785547" ignored="false" />
     <file path="/TR.scala" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383761094098" ignored="false" />
     <file path="$PROJECT_DIR$/../aweber-android/aweber/src/main/java/com/aweber/ScheduledBroadcastsFragment.java" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383765676897" ignored="false" />
     <file path="$PROJECT_DIR$/../aweber-android/aweber/AndroidManifest.xml" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383765676897" ignored="false" />
@@ -28,6 +48,7 @@
     <file path="$PROJECT_DIR$/../aweber-android/aweber/target/generated-sources/annotations/com/aweber/LoginActivity_.java" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383766273958" ignored="false" />
     <file path="/proguard-config.txt" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383767717254" ignored="false" />
     <file path="/build.sbt" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383836737618" ignored="false" />
+    <file path="/main.xml" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383849746452" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,10 +141,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MainActivity.scala" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="MainActivity.scala" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/MainActivity.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="0" selection-start="254" selection-end="436" vertical-scroll-proportion="0.0">
+            <state line="40" column="51" selection-start="1199" selection-end="1199" vertical-scroll-proportion="0.69739956">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/res/layout/main.xml">
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="21" selection-start="679" selection-end="679" vertical-scroll-proportion="-12.222222">
               <folding />
             </state>
           </provider>
@@ -159,15 +192,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DynamicAccess.scala" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-actor_2.10/srcs/akka-actor_2.10-2.2.3-sources.jar!/akka/actor/DynamicAccess.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="75" column="43" selection-start="3153" selection-end="3153" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Class.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file:///Applications/Android Studio.app/sdk/sources/android-17/java/lang/Class.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -186,7 +210,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="plugins.sbt" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="plugins.sbt" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project/plugins.sbt">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="53" selection-start="53" selection-end="53" vertical-scroll-proportion="0.0">
@@ -198,7 +222,7 @@
       <file leaf-file-name="build.sbt" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.sbt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="28" selection-start="876" selection-end="876" vertical-scroll-proportion="0.0">
+            <state line="16" column="28" selection-start="294" selection-end="294" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -207,7 +231,7 @@
       <file leaf-file-name="TR.scala" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/target/scala-2.10/src_managed/main/scala/com/danosipov/TR.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="77" selection-start="802" selection-end="802" vertical-scroll-proportion="0.0">
+            <state line="9" column="53" selection-start="240" selection-end="277" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -233,9 +257,10 @@
       <list>
         <option value="$PROJECT_DIR$/target/scala-2.10/src_managed/main/scala/com/danosipov/TR.scala" />
         <option value="$PROJECT_DIR$/proguard-config.txt" />
-        <option value="$PROJECT_DIR$/build.sbt" />
-        <option value="$PROJECT_DIR$/src/main/scala/MainActivity.scala" />
         <option value="$PROJECT_DIR$/project/plugins.sbt" />
+        <option value="$PROJECT_DIR$/build.sbt" />
+        <option value="$PROJECT_DIR$/src/main/res/layout/main.xml" />
+        <option value="$PROJECT_DIR$/src/main/scala/MainActivity.scala" />
       </list>
     </option>
   </component>
@@ -380,6 +405,7 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="MemberChooser.showClasses" value="true" />
+    <property name="AndroidLayoutSelectedEditor" value="text-editor" />
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="MemberChooser.copyJavadoc" value="false" />
   </component>
@@ -526,8 +552,11 @@
     <frame x="0" y="22" width="1440" height="790" extended-state="0" />
     <editor active="true" />
     <layout>
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998565" sideWeight="0.67113096" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998565" sideWeight="0.67113096" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998565" sideWeight="0.67113096" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="SBT Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -544,7 +573,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20731707" sideWeight="0.67113096" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20731707" sideWeight="0.67113096" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -618,13 +647,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-actor_2.10/srcs/akka-actor_2.10-2.2.3-sources.jar!/akka/actor/DynamicAccess.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="83" column="0" selection-start="3668" selection-end="3668" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///Applications/Android Studio.app/sdk/sources/android-17/java/lang/Class.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="471" column="0" selection-start="19711" selection-end="19711" vertical-scroll-proportion="0.0">
@@ -642,13 +664,6 @@
     <entry file="file://$PROJECT_DIR$/target/scala-2.10/src_managed/main/scala/com/danosipov/TR.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state line="18" column="77" selection-start="624" selection-end="624" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/scala-2.10/src_managed/main/scala/com/danosipov/TR.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="77" selection-start="802" selection-end="802" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -712,23 +727,40 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/project/plugins.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="53" selection-start="53" selection-end="53" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/build.sbt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="28" selection-start="876" selection-end="876" vertical-scroll-proportion="0.0">
+        <state line="16" column="28" selection-start="294" selection-end="294" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/scala-2.10/src_managed/main/scala/com/danosipov/TR.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="53" selection-start="240" selection-end="277" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/main.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="21" selection-start="679" selection-end="679" vertical-scroll-proportion="-12.222222">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/MainActivity.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="254" selection-end="436" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project/plugins.sbt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="53" selection-start="53" selection-end="53" vertical-scroll-proportion="0.0">
+        <state line="40" column="51" selection-start="1199" selection-end="1199" vertical-scroll-proportion="0.69739956">
           <folding />
         </state>
       </provider>

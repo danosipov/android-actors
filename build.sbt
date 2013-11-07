@@ -16,14 +16,6 @@ scalaVersion := "2.10.1"
 // Version of the Android platform SDK
 platformName := "android-18"
 
-//proguardOptions := Seq(
-//    "-keep class akka.actor.LightArrayRevolverScheduler",
-//    "-keepclasseswithmembers interface com.typesafe.config.Config",
-//    "-keepclasseswithmembers interface akka.event.LoggingAdapter",
-//    "-keepclasseswithmembers interface java.util.concurrent.ThreadFactory",
-//    "-keepattributes Signature",
-//    "-dontobfuscate")
-
 proguardOptions := Seq(
       "-keepclassmembers class * { ** MODULE$; }",
       "-keep class scala.Option",

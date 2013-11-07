@@ -34,11 +34,11 @@ class MainActivity extends Activity with TypedActivity {
     findView(TR.button1).setOnClickListener((v: View) => {
       buttonActor.tell(v, ActorRef.noSender)
     })
-    findView(TR.button1).setOnClickListener((v: View) => {
+    findView(TR.button2).setOnClickListener((v: View) => {
       buttonActor.tell(v, ActorRef.noSender)
     })
-    findView(TR.button1).setOnClickListener((v: View) => {
-      Toast.makeText(this, "Button 1 clicked", Toast.LENGTH_LONG).show()
+    findView(TR.button3).setOnClickListener((v: View) => {
+      Toast.makeText(this, "Button 3 clicked", Toast.LENGTH_LONG).show()
     })
   }
 

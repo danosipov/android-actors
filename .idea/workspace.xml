@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c302ea64-2f4f-4544-8c02-eddf2ab4666b" name="Default" comment="" />
+    <list default="true" id="c302ea64-2f4f-4544-8c02-eddf2ab4666b" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/MainActivity.scala" afterPath="$PROJECT_DIR$/src/main/scala/MainActivity.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/plugins.sbt" afterPath="$PROJECT_DIR$/project/plugins.sbt" />
+    </list>
     <ignored path="android-actors.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383831251322" ignored="false" />
-    <file path="/MainActivity.scala" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383765231871" ignored="false" />
+    <file path="/MainActivity.scala" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383847953374" ignored="false" />
     <file path="/TR.scala" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383761094098" ignored="false" />
     <file path="$PROJECT_DIR$/../aweber-android/aweber/src/main/java/com/aweber/ScheduledBroadcastsFragment.java" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383765676897" ignored="false" />
     <file path="$PROJECT_DIR$/../aweber-android/aweber/AndroidManifest.xml" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383765676897" ignored="false" />
@@ -120,7 +123,7 @@
       <file leaf-file-name="MainActivity.scala" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/MainActivity.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="0" selection-start="551" selection-end="551" vertical-scroll-proportion="0.0">
+            <state line="11" column="0" selection-start="254" selection-end="436" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -183,19 +186,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="plugins.sbt" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="plugins.sbt" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/project/plugins.sbt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="0" column="53" selection-start="53" selection-end="53" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.sbt" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="build.sbt" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.sbt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="28" selection-start="876" selection-end="876" vertical-scroll-proportion="0.3625">
+            <state line="31" column="28" selection-start="876" selection-end="876" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -204,7 +207,7 @@
       <file leaf-file-name="TR.scala" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/target/scala-2.10/src_managed/main/scala/com/danosipov/TR.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="77" selection-start="624" selection-end="624" vertical-scroll-proportion="0.0">
+            <state line="25" column="77" selection-start="802" selection-end="802" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -229,9 +232,10 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/target/scala-2.10/src_managed/main/scala/com/danosipov/TR.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/MainActivity.scala" />
         <option value="$PROJECT_DIR$/proguard-config.txt" />
         <option value="$PROJECT_DIR$/build.sbt" />
+        <option value="$PROJECT_DIR$/src/main/scala/MainActivity.scala" />
+        <option value="$PROJECT_DIR$/project/plugins.sbt" />
       </list>
     </option>
   </component>
@@ -644,7 +648,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/target/scala-2.10/src_managed/main/scala/com/danosipov/TR.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="77" selection-start="624" selection-end="624" vertical-scroll-proportion="0.0">
+        <state line="25" column="77" selection-start="802" selection-end="802" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -659,13 +663,6 @@
     <entry file="file://$PROJECT_DIR$/proguard-config.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="69" selection-start="19" selection-end="57" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project/plugins.sbt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -715,16 +712,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/MainActivity.scala">
+    <entry file="file://$PROJECT_DIR$/build.sbt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="0" selection-start="551" selection-end="551" vertical-scroll-proportion="0.0">
+        <state line="31" column="28" selection-start="876" selection-end="876" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.sbt">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/MainActivity.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="28" selection-start="876" selection-end="876" vertical-scroll-proportion="0.3625">
+        <state line="11" column="0" selection-start="254" selection-end="436" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/plugins.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="53" selection-start="53" selection-end="53" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>

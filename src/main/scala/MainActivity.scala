@@ -5,7 +5,6 @@ import android.view.View
 import android.os.Bundle
 import android.widget.Toast
 import akka.actor._
-import akka.actor.LightArrayRevolverScheduler
 
 class MainActivity extends Activity with TypedActivity {
 

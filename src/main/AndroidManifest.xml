@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.danosipov"
+    package="com.danosipov.androidactors"
     android:versionCode="0"
     android:versionName="0.1">
 

@@ -1,4 +1,4 @@
-package com.danosipov
+package com.danosipov.androidactors
 
 import android.app.Activity
 import android.view.View

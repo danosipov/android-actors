@@ -14,41 +14,77 @@
   <component name="AndroidLayoutPreviewToolWindow">
     <option name="state">
       <GlobalState>
+        <option name="device" value="2.7in QVGA" />
+        <option name="dockMode" value="" />
+        <option name="nightMode" value="notnight" />
+        <option name="targetHashString" value="android-17" />
         <option name="theme" value="Theme" />
       </GlobalState>
     </option>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c302ea64-2f4f-4544-8c02-eddf2ab4666b" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proguard-config.txt" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea_modules/AndroidActors.iml" afterPath="$PROJECT_DIR$/.idea_modules/AndroidActors.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/src/main/AndroidManifest.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/MainActivity.scala" afterPath="$PROJECT_DIR$/src/main/scala/MainActivity.scala" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.sbt" afterPath="$PROJECT_DIR$/build.sbt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/res/layout/main.xml" afterPath="$PROJECT_DIR$/src/main/res/layout/main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/plugins.sbt" afterPath="$PROJECT_DIR$/project/plugins.sbt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="android-actors.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383831251322" ignored="false" />
-    <file path="/MainActivity.scala" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383849785547" ignored="false" />
+    <file path="/Dummy.txt" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383928498802" ignored="false" />
+    <file path="/MainActivity.scala" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383924238680" ignored="false" />
     <file path="/TR.scala" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383761094098" ignored="false" />
-    <file path="$PROJECT_DIR$/../aweber-android/aweber/src/main/java/com/aweber/ScheduledBroadcastsFragment.java" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383765676897" ignored="false" />
-    <file path="$PROJECT_DIR$/../aweber-android/aweber/AndroidManifest.xml" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383765676897" ignored="false" />
-    <file path="$PROJECT_DIR$/../aweber-android/aweber/src/main/java/com/aweber/api/entity/Profile.java" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383765676897" ignored="false" />
-    <file path="$PROJECT_DIR$/../aweber-android/aweber/src/test/java/com/aweber/FileCacheTest.java" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383765676897" ignored="false" />
-    <file path="$PROJECT_DIR$/../aweber-android/aweber/src/main/java/com/aweber/SentBroadcastsFragment.java" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383765676897" ignored="false" />
-    <file path="$PROJECT_DIR$/../aweber-android/aweber/src/main/java/com/aweber/AwApplication.java" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383765676897" ignored="false" />
-    <file path="$PROJECT_DIR$/../aweber-android/aweber/src/main/java/com/aweber/FileCache.java" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383765676897" ignored="false" />
-    <file path="$PROJECT_DIR$/../aweber-android/aweber/src/main/java/com/aweber/DateFormatter.java" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383765676897" ignored="false" />
-    <file path="$PROJECT_DIR$/../aweber-android/aweber/src/main/java/com/aweber/LoginActivity.java" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383765676897" ignored="false" />
-    <file path="$PROJECT_DIR$/../aweber-android/aweber/src/test/java/com/aweber/DateFormatterTest.java" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383765676897" ignored="false" />
-    <file path="$PROJECT_DIR$/../aweber-android/aweber/src/test/java/com/aweber/LoginActivityTest.java" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383765676897" ignored="false" />
-    <file path="$PROJECT_DIR$/../aweber-android/aweber/target/generated-sources/r/com/aweber/R.java" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383766275141" ignored="false" />
-    <file path="$PROJECT_DIR$/../aweber-android/aweber/pom.xml" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383767211156" ignored="false" />
+    <file path="$PROJECT_DIR$/../aweber-android/aweber/src/main/java/com/aweber/ScheduledBroadcastsFragment.java" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383851599426" ignored="false" />
+    <file path="$PROJECT_DIR$/../aweber-android/aweber/AndroidManifest.xml" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383917795528" ignored="false" />
+    <file path="$PROJECT_DIR$/../aweber-android/aweber/src/main/java/com/aweber/api/entity/Profile.java" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383851599426" ignored="false" />
+    <file path="$PROJECT_DIR$/../aweber-android/aweber/src/test/java/com/aweber/FileCacheTest.java" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383851599426" ignored="false" />
+    <file path="$PROJECT_DIR$/../aweber-android/aweber/src/main/java/com/aweber/SentBroadcastsFragment.java" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383851599426" ignored="false" />
+    <file path="$PROJECT_DIR$/../aweber-android/aweber/src/main/java/com/aweber/AwApplication.java" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383851599426" ignored="false" />
+    <file path="$PROJECT_DIR$/../aweber-android/aweber/src/main/java/com/aweber/FileCache.java" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383851599426" ignored="false" />
+    <file path="$PROJECT_DIR$/../aweber-android/aweber/src/main/java/com/aweber/DateFormatter.java" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383851599426" ignored="false" />
+    <file path="$PROJECT_DIR$/../aweber-android/aweber/src/main/java/com/aweber/LoginActivity.java" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383851599426" ignored="false" />
+    <file path="$PROJECT_DIR$/../aweber-android/aweber/src/test/java/com/aweber/DateFormatterTest.java" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383851599426" ignored="false" />
+    <file path="$PROJECT_DIR$/../aweber-android/aweber/src/test/java/com/aweber/LoginActivityTest.java" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383917795528" ignored="false" />
+    <file path="$PROJECT_DIR$/../aweber-android/aweber/target/generated-sources/r/com/aweber/R.java" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383855748546" ignored="false" />
+    <file path="$PROJECT_DIR$/../aweber-android/aweber/pom.xml" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383917795528" ignored="false" />
     <file path="/pom.xml" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383767208820" ignored="false" />
-    <file path="$PROJECT_DIR$/../aweber-android/aweber/target/generated-sources/r/com/aweber/BuildConfig.java" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383766273958" ignored="false" />
-    <file path="$PROJECT_DIR$/../aweber-android/aweber/target/generated-sources/annotations/com/aweber/LoginActivity_.java" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383766273958" ignored="false" />
+    <file path="$PROJECT_DIR$/../aweber-android/aweber/target/generated-sources/r/com/aweber/BuildConfig.java" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383855747486" ignored="false" />
+    <file path="$PROJECT_DIR$/../aweber-android/aweber/target/generated-sources/annotations/com/aweber/LoginActivity_.java" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383855747486" ignored="false" />
     <file path="/proguard-config.txt" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383767717254" ignored="false" />
-    <file path="/build.sbt" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383836737618" ignored="false" />
+    <file path="/build.sbt" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383924661999" ignored="false" />
     <file path="/main.xml" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383849746452" ignored="false" />
+    <file path="$PROJECT_DIR$/../aweber-android/aweber/res/layout/dialog_environment.xml" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383851599426" ignored="false" />
+    <file path="$PROJECT_DIR$/../aweber-android/aweber/target/generated-sources/annotations/com/aweber/DashboardFragment_.java" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383855747486" ignored="false" />
+    <file path="$PROJECT_DIR$/../aweber-android/aweber/target/generated-sources/annotations/com/aweber/AwActivity_.java" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383855747486" ignored="false" />
+    <file path="$PROJECT_DIR$/../aweber-android/aweber/target/generated-sources/annotations/com/aweber/PlaceholderFragment_.java" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383855747486" ignored="false" />
+    <file path="$PROJECT_DIR$/../aweber-android/aweber/target/generated-sources/annotations/com/aweber/SentBroadcastsFragment_.java" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383855747486" ignored="false" />
+    <file path="$PROJECT_DIR$/../aweber-android/aweber/target/generated-sources/annotations/com/aweber/ScheduledBroadcastsFragment_.java" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383855747486" ignored="false" />
+    <file path="$PROJECT_DIR$/../aweber-android/aweber/target/generated-sources/annotations/com/aweber/MessageDetailActivity_.java" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383855747486" ignored="false" />
+    <file path="$PROJECT_DIR$/../aweber-android/aweber/target/generated-sources/annotations/com/aweber/TabNavActivity_.java" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383855747486" ignored="false" />
+    <file path="$PROJECT_DIR$/../aweber-android/aweber/target/generated-sources/annotations/com/aweber/AwWebViewFragment_.java" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383855747486" ignored="false" />
+    <file path="$PROJECT_DIR$/../aweber-android/aweber/target/generated-sources/annotations/com/aweber/SentBroadcastAdapter_.java" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383855747486" ignored="false" />
+    <file path="$PROJECT_DIR$/../aweber-android/aweber/target/generated-sources/annotations/com/aweber/PasswordResetActivity_.java" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383855747486" ignored="false" />
+    <file path="$PROJECT_DIR$/../aweber-android/aweber/target/generated-sources/annotations/com/aweber/ScheduledBroadcastItemView_.java" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383855747486" ignored="false" />
+    <file path="$PROJECT_DIR$/../aweber-android/aweber/target/generated-sources/annotations/com/aweber/ScheduledBroadcastAdapter_.java" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383855747486" ignored="false" />
+    <file path="$PROJECT_DIR$/../aweber-android/aweber/target/generated-sources/annotations/com/aweber/SentBroadcastItemView_.java" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383855747486" ignored="false" />
+    <file path="$PROJECT_DIR$/../aweber-android/aweber/target/generated-sources/annotations/com/aweber/AwWebViewActivity_.java" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383855747486" ignored="false" />
+    <file path="$PROJECT_DIR$/../robolectric/pom.xml" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383852388559" ignored="false" />
+    <file path="$PROJECT_DIR$/../robolectric/src/main/java/org/robolectric/res/Fs.java" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383918250156" ignored="false" />
+    <file path="/Fs.java" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383855937939" ignored="false" />
+    <file path="$PROJECT_DIR$/../robolectric/src/main/java/org/robolectric/res/DocumentLoader.java" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383855383086" ignored="false" />
+    <file path="/DocumentLoader.java" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383855382629" ignored="false" />
+    <file path="$PROJECT_DIR$/../aweber-android/aweber/target/generated-sources/annotations/com/aweber/AwFragment_.java" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383855747486" ignored="false" />
+    <file path="$PROJECT_DIR$/../aweber-android/aweber/target/generated-sources/annotations/com/aweber/AwApplication_.java" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383855747486" ignored="false" />
+    <file path="$PROJECT_DIR$/../aweber-android/aweber/target/checkstyle-checker.xml" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383855651811" ignored="false" />
+    <file path="$PROJECT_DIR$/../aweber-android/aweber/target/checkstyle-result.xml" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383855651811" ignored="false" />
+    <file path="$PROJECT_DIR$/../aweber-android/aweber/res/values/com_crashlytics_export_strings.xml" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383918789015" ignored="false" />
+    <file path="/a.java" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383857180295" ignored="false" />
+    <file path="/MainActivityTest.java" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383925205295" ignored="false" />
+    <file path="/AndroidManifest.xml" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383924753659" ignored="false" />
+    <file path="/fragment.java" changelist="c302ea64-2f4f-4544-8c02-eddf2ab4666b" time="1383928498802" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,38 +99,7 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
-      <breakpoint url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-actor_2.10/srcs/akka-actor_2.10-2.2.3-sources.jar!/akka/actor/ActorSystem.scala" line="617" class="akka.actor.ActorSystemImpl" package="akka.actor">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="REMOVE_AFTER_HIT" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-      <breakpoint url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-actor_2.10/srcs/akka-actor_2.10-2.2.3-sources.jar!/akka/actor/DynamicAccess.scala" line="75" class="akka.actor.ReflectiveDynamicAccess" package="akka.actor">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="REMOVE_AFTER_HIT" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-    </line_breakpoints>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -131,7 +136,38 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-actor_2.10/srcs/akka-actor_2.10-2.2.3-sources.jar!/akka/actor/ActorSystem.scala" line="617" class="akka.actor.ActorSystemImpl" package="akka.actor">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-actor_2.10/srcs/akka-actor_2.10-2.2.3-sources.jar!/akka/actor/DynamicAccess.scala" line="75" class="akka.actor.ReflectiveDynamicAccess" package="akka.actor">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </line_breakpoints>
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -141,10 +177,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MainActivity.scala" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="MainActivity.scala" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/MainActivity.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="51" selection-start="1199" selection-end="1199" vertical-scroll-proportion="0.69739956">
+            <state line="9" column="45" selection-start="255" selection-end="255" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -156,55 +192,16 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="21" selection-start="679" selection-end="679" vertical-scroll-proportion="-12.222222">
+            <state line="22" column="21" selection-start="679" selection-end="679" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ActorSystem.scala" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-actor_2.10/srcs/akka-actor_2.10-2.2.3-sources.jar!/akka/actor/ActorSystem.scala">
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="538" column="38" selection-start="21870" selection-end="21870" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Logging.scala" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-actor_2.10/srcs/akka-actor_2.10-2.2.3-sources.jar!/akka/event/Logging.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="8" selection-start="84" selection-end="94" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Config.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.ivy2/cache/com.typesafe/config/srcs/config-1.0.2-sources.jar!/com/typesafe/config/Config.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="86" column="39" selection-start="3983" selection-end="3983" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="n#!!doc" expanded="false" />
-                <element signature="imports" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Class.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file:///Applications/Android Studio.app/sdk/sources/android-17/java/lang/Class.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="585" column="26" selection-start="24213" selection-end="24213" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="proguard-config.txt" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/proguard-config.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="69" selection-start="19" selection-end="57" vertical-scroll-proportion="0.0">
+            <state line="13" column="66" selection-start="459" selection-end="459" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -213,25 +210,16 @@
       <file leaf-file-name="plugins.sbt" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project/plugins.sbt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="53" selection-start="53" selection-end="53" vertical-scroll-proportion="0.0">
+            <state line="2" column="59" selection-start="125" selection-end="125" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.sbt" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="build.sbt" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/build.sbt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="28" selection-start="294" selection-end="294" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TR.scala" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/target/scala-2.10/src_managed/main/scala/com/danosipov/TR.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="53" selection-start="240" selection-end="277" vertical-scroll-proportion="0.0">
+            <state line="41" column="47" selection-start="1195" selection-end="1195" vertical-scroll-proportion="0.7156398">
               <folding />
             </state>
           </provider>
@@ -257,10 +245,12 @@
       <list>
         <option value="$PROJECT_DIR$/target/scala-2.10/src_managed/main/scala/com/danosipov/TR.scala" />
         <option value="$PROJECT_DIR$/proguard-config.txt" />
-        <option value="$PROJECT_DIR$/project/plugins.sbt" />
-        <option value="$PROJECT_DIR$/build.sbt" />
         <option value="$PROJECT_DIR$/src/main/res/layout/main.xml" />
         <option value="$PROJECT_DIR$/src/main/scala/MainActivity.scala" />
+        <option value="$PROJECT_DIR$/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/danosipov/androidactors/test/MainActivityTest.java" />
+        <option value="$PROJECT_DIR$/project/plugins.sbt" />
+        <option value="$PROJECT_DIR$/build.sbt" />
       </list>
     </option>
   </component>
@@ -312,6 +302,80 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="android-actors" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android-actors" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android-actors" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="target" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android-actors" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android-actors" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="target" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scala-2.10" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src_managed" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android-actors" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android-actors" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="target" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scala-2.10" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src_managed" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="androidactors" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -400,16 +464,34 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="GoToFile.includeJavaFiles" value="false" />
-    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
+    <property name="options.lastSelected" value="net.orfjackal.sbt.plugin.settings.SbtConfigurable" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="MemberChooser.showClasses" value="true" />
     <property name="AndroidLayoutSelectedEditor" value="text-editor" />
-    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="Downloaded.Files.Path" value="$PROJECT_DIR$/lib" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Test">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
@@ -499,14 +581,14 @@
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="PACKAGE_NAME" value="com.danosipov.androidactors.test" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
       <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
@@ -516,7 +598,31 @@
       <patterns />
       <method />
     </configuration>
-    <list size="0" />
+    <configuration default="false" name="Test" type="JUnit" factoryName="JUnit">
+      <module name="AndroidActors" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="PACKAGE_NAME" value="com.danosipov.androidactors.test" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.Test" />
+    </list>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
       <Port>5050</Port>
@@ -552,32 +658,33 @@
     <frame x="0" y="22" width="1440" height="790" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998565" sideWeight="0.67113096" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998565" sideWeight="0.67113096" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998565" sideWeight="0.67113096" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="SBT Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="SBT Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32985073" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="IvyIDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3283582" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32886904" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3283582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24964131" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20731707" sideWeight="0.67113096" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20731707" sideWeight="0.67164177" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998565" sideWeight="0.67113096" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998565" sideWeight="0.67113096" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297414" sideWeight="0.67113096" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -647,39 +754,16 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file:///Applications/Android Studio.app/sdk/sources/android-17/java/lang/Class.java">
+    <entry file="file://$PROJECT_DIR$/build.sbt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="471" column="0" selection-start="19711" selection-end="19711" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/proguard-config.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="69" selection-start="19" selection-end="57" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/scala-2.10/src_managed/main/scala/com/danosipov/TR.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="77" selection-start="624" selection-end="624" vertical-scroll-proportion="0.0">
+        <state line="42" column="54" selection-start="1251" selection-end="1251" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-actor_2.10/srcs/akka-actor_2.10-2.2.3-sources.jar!/akka/actor/Scheduler.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="182" column="6" selection-start="6581" selection-end="6581" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/proguard-config.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="69" selection-start="19" selection-end="57" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="182" column="6" selection-start="6581" selection-end="6581" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-actor_2.10/srcs/akka-actor_2.10-2.2.3-sources.jar!/akka/actor/DynamicAccess.scala">
@@ -691,59 +775,31 @@
     </entry>
     <entry file="file:///Applications/Android Studio.app/sdk/sources/android-17/java/lang/Class.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="585" column="26" selection-start="24213" selection-end="24213" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="585" column="26" selection-start="24213" selection-end="24213" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/.ivy2/cache/com.typesafe/config/srcs/config-1.0.2-sources.jar!/com/typesafe/config/ConfigMergeable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="31" selection-start="574" selection-end="574" vertical-scroll-proportion="0.45">
-          <folding />
-        </state>
+        <state line="14" column="31" selection-start="574" selection-end="574" vertical-scroll-proportion="0.45" />
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/.ivy2/cache/com.typesafe/config/srcs/config-1.0.2-sources.jar!/com/typesafe/config/Config.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="86" column="39" selection-start="3983" selection-end="3983" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-actor_2.10/srcs/akka-actor_2.10-2.2.3-sources.jar!/akka/actor/ActorSystem.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="538" column="38" selection-start="21870" selection-end="21870" vertical-scroll-proportion="0.0">
+        <state line="86" column="39" selection-start="3983" selection-end="3983" vertical-scroll-proportion="0.023364486">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-actor_2.10/srcs/akka-actor_2.10-2.2.3-sources.jar!/akka/event/Logging.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="8" selection-start="84" selection-end="94" vertical-scroll-proportion="0.0">
+        <state line="3" column="8" selection-start="84" selection-end="94" vertical-scroll-proportion="0.023847377">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project/plugins.sbt">
+    <entry file="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-actor_2.10/srcs/akka-actor_2.10-2.2.3-sources.jar!/akka/actor/ActorSystem.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="53" selection-start="53" selection-end="53" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.sbt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="28" selection-start="294" selection-end="294" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/scala-2.10/src_managed/main/scala/com/danosipov/TR.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="53" selection-start="240" selection-end="277" vertical-scroll-proportion="0.0">
+        <state line="538" column="38" selection-start="21870" selection-end="21870" vertical-scroll-proportion="0.023847377">
           <folding />
         </state>
       </provider>
@@ -753,18 +809,129 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="21" selection-start="679" selection-end="679" vertical-scroll-proportion="-12.222222">
+        <state line="22" column="21" selection-start="679" selection-end="679" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/scala-2.10/src_managed/main/java/com/danosipov/androidactors/R.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="19" selection-start="239" selection-end="239" vertical-scroll-proportion="0.0931677">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/MainActivity.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="51" selection-start="1199" selection-end="1199" vertical-scroll-proportion="0.69739956">
+        <state line="9" column="45" selection-start="255" selection-end="255" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/IdeaIC12/compile-server/android-actors_c71e26e4/targets/java-production/AndroidActors/android/generated_sources/build_config/com/danosipov/androidactors/BuildConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="19" selection-start="108" selection-end="108" vertical-scroll-proportion="0.10663507">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="66" selection-start="459" selection-end="459" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/plugins.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="59" selection-start="125" selection-end="125" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="47" selection-start="1195" selection-end="1195" vertical-scroll-proportion="0.7156398">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Android</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-compiler</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Android|AndroidActors</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>org.robolectric:robolectric:2.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
 

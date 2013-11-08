@@ -10,7 +10,9 @@
       </configuration>
     </facet>
     <facet type="android" name="Android">
-      <configuration />
+      <configuration>
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/../src/main/AndroidManifest.xml" />
+      </configuration>
     </facet>
   </component>
   <component name="NewModuleRootManager" inherit-compiler-output="false">
@@ -40,6 +42,16 @@
     <orderEntry type="library" name="SBT: com.typesafe.akka:akka-actor_2.10:2.2.3" level="project" />
     <orderEntry type="library" name="SBT: com.typesafe:config:1.0.2" level="project" />
     <orderEntry type="library" name="android.jar" level="project" />
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://$APPLICATION_HOME_DIR$/lib/junit-4.10.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="org.robolectric:robolectric:2.2" level="project" />
   </component>
 </module>
 

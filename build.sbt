@@ -33,7 +33,11 @@ proguardOptions := Seq(
       "-dontskipnonpubliclibraryclassmembers",
       "-dontskipnonpubliclibraryclasses")
 
-resolvers += "Typesafe Repository" at "http://repo.typesafe.com/typesafe/releases/"
+resolvers ++= Seq(
+  "Typesafe Repository" at "http://repo.typesafe.com/typesafe/releases/",
+  "Maven Central Server" at "http://repo1.maven.org/maven2"
+)
  
-libraryDependencies +=
+libraryDependencies ++= Seq(
   "com.typesafe.akka" %% "akka-actor" % "2.2.3"
+)
